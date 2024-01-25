@@ -13,23 +13,29 @@
 <p align="center">
 Use next.js to optimize website loading speed and functional issues
 </p>
-<p align="center">
-  <b>
-    PS:that all content below is Nuxt.js version and may be out of date
-  </b>
-</p>
 
 ## Packages List 📦
 
 The repository is using the packages in the list below
 
-- [Nuxt Image](https://v1.image.nuxtjs.org/)
-- [Nuxt typed router](https://nuxt-typed-router.vercel.app/)
-- [@nuxtjs/i18n](https://v8.i18n.nuxtjs.org/)
-- [Seo-Kit](https://nuxt.com.cn/modules/seo-kit)
-- [Tailwind CSS](https://tailwindcss.nuxtjs.org/)
-- [@nuxtjs/color-mode](https://color-mode.nuxtjs.org/)
-- [@nuxtjs/partytown](https://nuxt.com/modules/partytown)
+```bash
+@mantine/carousel
+@mantine/core
+@mantine/hooks
+@next/bundle-analyzer
+@tabler/icons-react
+embla-carousel-autoplay
+embla-carousel-react
+i18next
+next
+next-i18next
+react
+react-dom
+react-i18next
+```
+
+> [!WARNING]
+> that all content below is Nuxt.js version and may be out of date
 
 ## i18n 🌐
 
@@ -51,7 +57,7 @@ If you want to translate an existing language, please go to [gensokyoreimagined 
 
 Many thanks to the following staff for their translation and proofreading
 
-[@Afk-82](https://crowdin.com/profile/afk-82) [@DanClypse](https://crowdin.com/profile/danclypse) [@hanja_2007](https://crowdin.com/profile/hanja_2007) [@n n](https://crowdin.com/profile/igorsolarev2006)[@Kurobu](https://crowdin.com/profile/kurobu) [@nolemretaWxd](https://weblate.gensokyoreimagined.net/user/nolemretaWxd/) [@Peaceful'Nightu](https://weblate.gensokyoreimagined.net/user/nolemretaWxdNightu) [@arksc](https://weblate.gensokyoreimagined.net/user/arksc) [@AlphaUberKesha](https://weblate.gensokyoreimagined.net/user/Alfozir_Vognystyj)
+[@Afk-82](https://crowdin.com/profile/afk-82) [@DanClypse](https://crowdin.com/profile/danclypse) [@hanja_2007](https://crowdin.com/profile/hanja_2007) [@n n](https://crowdin.com/profile/igorsolarev2006)[@Kurobu](https://crowdin.com/profile/kurobu) [@nolemretaWxd](https://weblate.gensokyoreimagined.net/user/nolemretaWxd/) [@Peaceful&#39;Nightu](https://weblate.gensokyoreimagined.net/user/nolemretaWxdNightu) [@arksc](https://weblate.gensokyoreimagined.net/user/arksc) [@AlphaUberKesha](https://weblate.gensokyoreimagined.net/user/Alfozir_Vognystyj)
 
 ## Config 🔧
 
