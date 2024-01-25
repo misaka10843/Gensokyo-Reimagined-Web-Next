@@ -16,4 +16,5 @@ export const theme = createTheme({
     ],
   },
   primaryColor: 'touhou-red',
+  primaryShade: { light: 5, dark: 9 },
 });
